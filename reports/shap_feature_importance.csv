@@ -1,0 +1,9 @@
+Feature,Mean_Absolute_SHAP
+Frequency,0.36356762
+Purchase_Activity_Span_Days,0.3419414
+Recency,0.2972391
+Total_Quantity,0.27994302
+Average_Order_Value,0.20450449
+Monetary,0.17187618
+Average_Quantity_Per_Order,0.14656171
+Customer_Tenure_Days,0.1313492

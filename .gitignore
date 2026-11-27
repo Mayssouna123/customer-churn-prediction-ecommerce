@@ -1,0 +1,15 @@
+.venv/
+.venv*/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.env
+.env.*
+*.pyc
+*.log
+data.csv
+outputs/final_customer_dataset.csv
+outputs/customer_risk_predictions.csv
+outputs/test_predictions_audit.csv
+outputs/customer_risk_segments.csv
